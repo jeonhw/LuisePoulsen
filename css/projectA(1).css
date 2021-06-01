@@ -109,7 +109,7 @@ header.inner{
 }
 
 .swiper-slide.main.one{
-    background: url(images/luise/header_BG.png)50% 50% no-repeat; 
+    background: url(../images/luise/header_BG.png)50% 50% no-repeat; 
     background-size: cover;
     width: 100%;
     height: 100vh;
