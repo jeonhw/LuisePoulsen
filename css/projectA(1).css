@@ -1401,6 +1401,10 @@ div.zoom {
         text-align: left;
     }
 
+    .sec.seller .contentarea ul > li{
+        font-weight: 200;
+    }
+
     .bgcolor{background: #000;
     width: 100%;}
 
@@ -1425,10 +1429,13 @@ div.zoom {
     }
 
 
-    .sec.seller .contentarea ul li:nth-child(1){
+    .sec.seller .contentarea ul li:nth-child(1) {
         font-size: 1.2rem;
+        font-weight: 500;
+        /* line-height: 2.5rem; */
+        margin-bottom: 0.5rem;
+        cursor: pointer;
     }
-
 
     div.storeimg {
         width: 300px;
