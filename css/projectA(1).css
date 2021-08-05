@@ -1375,16 +1375,15 @@ div.zoom {
         text-align: center;
     }
 
-    .sec.seller .contentarea{
+    .sec.seller .contentarea {
         display: flex;
         width: 1200px;
         height: 377px;
         /* border: 1px solid white; */
         margin: 0 auto;
-        margin-top: 88px;
+        margin-top: 3rem;
         flex-wrap: wrap;
         justify-content: space-between;
-        
     }
 
     .sec.seller .contentarea ul{
